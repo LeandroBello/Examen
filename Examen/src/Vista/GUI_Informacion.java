@@ -41,7 +41,7 @@ public class GUI_Informacion extends javax.swing.JPanel {
         this.jt_NumeroRegistro.setText(arreglo[0]);
         this.jt_NombreDueño.setText(arreglo[1]);
         this.jt_CedulaDueño.setText(arreglo[2]);
-        this.jl_PlacaAutomovil.setText(arreglo[3]);
+        this.jt_PlacaAutomovil.setText(arreglo[3]);
     }
     
      public void mostrarInformacionPrederminada()// PARAMETRO DESDE LA CLASE MODELO.OBJETO
